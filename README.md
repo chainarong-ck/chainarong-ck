@@ -81,6 +81,14 @@ Technologies I can work with, alongside my core stack.
 
 ---
 
+## 📚 Documentation & Notes
+
+Explore my documentation and notes on GitHub Gist.
+
+[**Browse my Gists →**](https://gist.github.com/chainarong-ck)
+
+---
+
 ## 🤝 Let's Connect
 
 Interested in **Linux, networking, backend engineering, or fullstack development**? Let's exchange ideas.
